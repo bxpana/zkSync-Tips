@@ -22,11 +22,6 @@
 
 ### zkSync Era
 ∎ There is currently a **24 hour delay on withdrawals** from zkSync Era mainnet to Ethereum L1. You can learn more about the process and reason in our latest [blog post](https://blog.matter-labs.io/securing-zksync-era-execution-delay-ee32b11d6f9)
-  - **As of Sunday March 26th, 2023**
-   - Withdrawals are currently experiencing a delay due to a backend service. This issue is not related to the protocol and we are actively working to process affected withdrawals. *Please note that only a small amount of withdrawals have been affected.* 
-We apologize for any inconvenience this may have caused and appreciate your patience and understanding. We will keep you updated on the progress of the resolution.
-</br>
-
 ∎ If you want to use zkSync Era testnet or mainnet, learn more [here](https://github.com/bxpana/zkSync-Tips/blob/3ac36573e4fb85af015b886a3b1c0125fafd997b/zkSync%20Era%20Guides.md) 
 </br>
 ∎ Check on testnet status [here](https://uptime.com/s/zkSync-testnet) 
