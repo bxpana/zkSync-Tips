@@ -8,7 +8,7 @@
 </br>
 ∎ Learn [How do I migrate my funds from zkSync Lite to zkSync Era?](https://github.com/bxpana/zkSync-Tips/blob/c00194b8538cb221fd54879eab316e23b854d658/How%20do%20I%20migrate%20my%20funds%20from%20zkSync%20Lite%20to%20zkSync%20Era%3F.md)
 </br>
-∎ **There is no token for zkSync Lite or zkSync Era**. Follow us on [Discord](https://join.zksync.dev/) or [Twitter](https://twitter.com/zksync) for official announcemnts
+∎ **There is no token for zkSync Lite or zkSync Era**. Follow us on [Discord](https://join.zksync.dev/) or [Twitter](https://twitter.com/zksync) for official announcements
 
 ### zkSync Lite
 ∎ Use our [FAQ](https://docs.zksync.io/userdocs/faq.html) and [Tutorials](https://docs.zksync.io/userdocs/tutorials.html) for how to use zkSync Lite
