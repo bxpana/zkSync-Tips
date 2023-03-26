@@ -19,6 +19,9 @@
 
 ∎ If you used another bridge or dApp like ZigZag or Orbiter, please reach out to their teams for support. Find more information about their projects [here](https://ecosystem.zksync.io/)
 
+∎ Find the zkSync Lite block explorer [here](https://zkscan.io/) 
+</br>
+
 
 ### zkSync Era
 ∎ There is currently a **24 hour delay on withdrawals** from zkSync Era mainnet to Ethereum L1. You can learn more about the process and reason in our latest [blog post](https://blog.matter-labs.io/securing-zksync-era-execution-delay-ee32b11d6f9)
@@ -35,3 +38,4 @@ We apologize for any inconvenience this may have caused and appreciate your pati
 </br>
 ∎ Check our [contacts page](https://docs.zksync.io/contact.html) to prevent clicking on scam links
 </br>
+∎ Find the zkSync Era block explorer [here](https://explorer.zksync.io/) 
