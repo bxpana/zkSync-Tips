@@ -10,6 +10,8 @@ You can add the zkSync alpha testnet using the info here: https://era.zksync.io/
 
 3. Try out other applications on testnet which you can find here: https://matterlabs.notion.site/zkSync-Era-Testnet-Applications-e38328bccda7472793024a25e26a1cac 
 
+4. You can find the zkSync Era testnet block explorer [here](https://goerli.explorer.zksync.io/) 
+
 **Developers:**
 1. https://era.zksync.io/docs/
 
@@ -29,6 +31,8 @@ You can add the zkSync alpha testnet using the info here: https://era.zksync.io/
 *For now, there is no bridge from zkSync Lite to zkSync Era. We will communicate any updates on this matter. Learn more [here](https://github.com/bxpana/zkSync-Tips/blob/c00194b8538cb221fd54879eab316e23b854d658/How%20do%20I%20migrate%20my%20funds%20from%20zkSync%20Lite%20to%20zkSync%20Era%3F.md)
 
 3. You can find Live applications on: https://ecosystem.zksync.io/
+
+4. You can find the zkSync Era mainnet block explorer [here](https://explorer.zksync.io/) 
 
 **Developers:**
 
