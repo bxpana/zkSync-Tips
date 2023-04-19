@@ -1,5 +1,5 @@
 # Check Withdrawal Delay
-1. Go to the transaction on the [zkSync Era mainnet block explorer]()
+1. Go to the transaction on the [zkSync Era mainnet block explorer](https://explorer.zksync.io/)
 1. Click on the Block number
 <img src="https://github.com/bxpana/zkSync-Tips/blob/e0c456e8dbd1f4912f160264a4dd9d87ad413279/images/Screenshot%202023-03-26%20at%201.32.24%20PM.png" height="130px">
 
