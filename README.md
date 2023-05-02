@@ -12,6 +12,11 @@ Tips for how to use zkSync
 
 ## zkSync Lite
 ∎ Use our [FAQ](https://docs.zksync.io/userdocs/faq.html) and [Tutorials](https://docs.zksync.io/userdocs/tutorials.html) for how to use zkSync Lite
+<br>
+</br>
+⚠️ You will not see your zkSync Lite funds on your wallet unless it is integrated with zkSync Lite like [Argent](https://www.argent.xyz/). 
+</br>Since you connect to zkSync Lite via Ethereum mainnet your wallet will show you your funds on Ethereum and you can check your zkSync Lite funds on [the zkSync Lite wallet](https://lite.zksync.io/) or [the zkSync Lite block explorer](https://zkscan.io/).
+</br>
 </br>
 ∎ Withdrawals from zkSync Lite to Ethereum can take up to **7 hours**
  - If you don't see your funds, check these [steps](https://docs.zksync.io/userdocs/faq.html#i-withdrew-my-funds-but-don-t-see-them-in-my-l1-account)
